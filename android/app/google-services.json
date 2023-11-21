@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "99152586222",
+    "project_id": "kodoos-5efcc",
+    "storage_bucket": "kodoos-5efcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99152586222:android:ec7738f9e35eb205f05aff",
+        "android_client_info": {
+          "package_name": "com.hyper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99152586222-1sqbqubs7v5p0plhbndmgstal96jku9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRy2yB4dvuFRzqWpEPL2i48CoaATccbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99152586222-1sqbqubs7v5p0plhbndmgstal96jku9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99152586222-1j84udst0kqfihjfl9o7j2m6sipr43sc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kodoos.llc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99152586222:android:6560c66385fa94e0f05aff",
+        "android_client_info": {
+          "package_name": "com.hyperhyper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99152586222-1sqbqubs7v5p0plhbndmgstal96jku9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuRy2yB4dvuFRzqWpEPL2i48CoaATccbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99152586222-1sqbqubs7v5p0plhbndmgstal96jku9o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "99152586222-1j84udst0kqfihjfl9o7j2m6sipr43sc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kodoos.llc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
