@@ -1,4 +1,22 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+### Choice of Technology:
+- **React Native with TypeScript:** I chose React Native combined with TypeScript for its robust cross-platform capabilities, allowing seamless iOS and Android development. TypeScript adds an additional layer of type safety, enhancing code reliability and maintainability.
+- **Firebase:** Utilized for its comprehensive suite of tools, especially for secure authentication and real-time database functionality. Firebase's scalability and ease of integration with React Native significantly streamline the development process.
+
+### Design Principles:
+- **User Experience:** I meticulously replicated the provided UI designs, focusing on precision and user-friendliness. Emphasis was placed on creating reusable components, enhancing the UI's adaptability across different sections of the application.
+- **Responsive Design:** Responsiveness was a key focus, achieved through the adept use of `navigation` and `KeyboardAvoidScrollViewArea`. This approach ensures a seamless user experience on devices with varying screen sizes and orientations.
+- **Consistency:** Consistency across the application was maintained by leveraging a set of reusable components. This approach not only ensured a uniform look and feel but also facilitated easier updates and maintenance.
+
+### Implementation Details:
+- **Authentication Flow:** Developed a dedicated `authManager` module to centralize all authentication-related operations with Firebase. This abstraction enhances code organization and simplifies the integration of authentication processes throughout the app.
+- **Data Validation:** Implemented robust email validation to ensure user inputs are in a valid email format, enhancing data integrity and user experience.
+- **Error Handling:** Integrated comprehensive error handling that provides user-friendly feedback and custom alerts in case of errors, greatly improving the app's reliability and usability.
+
+### Testing and Debugging:
+- **Testing Approach:** Conducted extensive manual testing on both debug and production builds to ensure functionality, performance, and user experience meet the highest standards.
+- **Debugging Strategies:** Adopted a methodical, component-by-component debugging approach. This granular strategy allowed for precise identification and resolution of issues, ensuring a high-quality, stable application.
+
+![Screenshot 2023-11-21 at 8 50 04 PM](https://github.com/iexcalibur/curly-login/assets/48850851/de8d6103-62aa-4cf5-95b7-5c9a136de714)
 
 # Getting Started
 
