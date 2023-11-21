@@ -40,18 +40,6 @@ export function containsUppercaseLetter(str: string) {
   return uppercaseLetters.test(str);
 }
 
-export function getPostDateTimeText(dateTime: string) {
-  if(moment().isSame(dateTime, 'day')) {
-    return moment(new Date(dateTime)).format('h:mm a');
-  } else {
-    return moment(new Date(dateTime)).format('D MMM YYYY h:mm a');
-  }
-}
-
-export function getAchievementDate(dateTime: string) {
-  return moment(new Date(dateTime)).format('DD/MM/YY');
-}
-
 const BILLION = 1000000000;
 const MILLION = 1000000;
 const KILO = 1000;
